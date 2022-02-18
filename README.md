@@ -13,8 +13,8 @@ Once the data is loaded, we then analyze a dataframe of that data in PySparks lo
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/total_helpful%20reviews.PNG> <br />
 
 - Of the data I evaluated, there were 107 Vine reviews(Paid reviews) and 39768 non-Vine reviews. (see below)
-<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine reviews.PNG> <br />
-<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/non-vine reviews.PNG> <br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine%20reviews.PNG> <br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/non-vine%20reviews.PNG> <br />
 <br />
 
 
