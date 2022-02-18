@@ -28,6 +28,6 @@ Once the data is loaded, it is then used to populate a dataframe in PySparks loo
 ### DB tables
 - Adding images of the database tables in case that is a requirement.
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/customers_table.PNG><br />
-<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/product_table.PNG><br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/products_table.PNG><br />
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/review_id_table.PNG><br />
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine_table.PNG>
