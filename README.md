@@ -9,8 +9,12 @@ Once the data is loaded, we then analyze a dataframe of that data in PySparks lo
 ## Reviews
 
 - I selected outdoor product reviews. In the dataset there were many more unpaid reviewers than paid reviewers. Also, it shoud be noted that I filtered the dataset so I would only evaluate reivews that had 20 or more votes and a minimum of 50% of the votes were "helpful". 
+- Of the data I evaluated, there were 39875 reviews. 
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/total_helpful%20reviews.PNG> <br />
+
 - Of the data I evaluated, there were 107 Vine reviews(Paid reviews) and 39768 non-Vine reviews. (see below)
-<img src = https://github.com/AaronAKTX/MechaCar_Statistical_Analysis/blob/main/resources/t.test_all.PNG>
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine reviews.PNG> <br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/non-vine reviews.PNG> <br />
 <br />
 
 
