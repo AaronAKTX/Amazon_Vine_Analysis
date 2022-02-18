@@ -16,8 +16,9 @@ Once the data is loaded, it is then used to populate a dataframe in PySparks loo
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine%20reviews.PNG> <br />
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/non-vine%20reviews.PNG> <br />
 <br />
+
 - The percentage of the Vine and Non-Vine reviews that were 5 stars were both right around 52%. See the summary below:
-- 
+ 
 <img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/summary.PNG> <br />
 
 ## Summary
