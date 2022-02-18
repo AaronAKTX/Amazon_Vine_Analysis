@@ -23,3 +23,11 @@ Once the data is loaded, it is then used to populate a dataframe in PySparks loo
 
 ## Summary
 - After the analysis, I did not see any signs of positivity bias from the Vine participants vs the non-vine participants. There was such a small subset of Vine reviews in my dataset though, I think further analysis would be prudent. More datasets of different products could be added to collect more data. These results may bring to light any bias that was missed by my analysis. Also, specific reviewers could be analyzed to see if there are viners out there just popping 5 stars on every product they review.
+
+
+### DB tables
+- Adding images of the database tables in case that is a requirement.
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/customers_table.PNG><br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/product_table.PNG><br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/review_id_table.PNG><br />
+<img src = https://github.com/AaronAKTX/Amazon_Vine_Analysis/blob/main/resources/vine_table.PNG>
